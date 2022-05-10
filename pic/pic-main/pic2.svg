@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="480" viewBox="0 0 576 480">
+    <g id="组_53" data-name="组 53" transform="translate(-1296 -264)">
+        <g id="框" transform="translate(1248 120)">
+            <g id="底" fill="rgba(139,165,255,0.06)">
+                <path d="M96,144H60.971L48,156.961V611.227L60.783,624H248.115l7.45-7.444h28.429l7.45,7.444H610.619L624,610.63V328.812L611.569,316.39V233.55L624,221.128V156.12l-6.934-6.929H561.2L556,144Z" stroke="none"/>
+                <path d="M 61.385498046875 145 L 49 157.3756103515625 L 49 610.8123779296875 L 61.197265625 623 L 247.7012939453125 623 L 255.1516418457031 615.5554809570313 L 284.4084167480469 615.5554809570313 L 291.8588256835938 623 L 610.2050170898438 623 L 623 610.2152099609375 L 623 329.2263793945313 L 610.568603515625 316.8048706054688 L 610.568603515625 233.1353149414063 L 623 220.7138061523438 L 623 156.5348510742188 L 616.6516723632813 150.1915283203125 L 560.7816162109375 150.1915283203125 L 555.5859985351563 145 L 61.385498046875 145 M 60.97149658203125 144 L 556 144 L 561.1956176757813 149.1915283203125 L 617.065673828125 149.1915283203125 L 624 156.1204223632813 L 624 221.1282958984375 L 611.568603515625 233.5497436523438 L 611.568603515625 316.3904418945313 L 624 328.8119201660156 L 624 610.629638671875 L 610.6190185546875 624 L 291.4448547363281 624 L 283.9944152832031 616.5554809570313 L 255.5656433105469 616.5554809570313 L 248.1152954101563 624 L 60.78326416015625 624 L 48 611.2268676757813 L 48 156.9611206054688 L 60.97149658203125 144 Z" stroke="none" fill="rgba(255,255,255,0.16)"/>
+            </g>
+            <g id="小元素">
+                <path id="路径_121" data-name="路径 121" d="M48,432l6.7,6.7v75.5l-6.7,6Z" transform="translate(0 19.797)" fill="#fff"/>
+                <path id="路径_122" data-name="路径 122" d="M89.872,144v4.244H63.036L51.4,159.884V180.93l-3.4,3.4V157.481L61.481,144Z" fill="#fff"/>
+                <path id="路径_123" data-name="路径 123" d="M455.815,539.679h-3.6v21.834l-11.709,11.852h-9.268l-3.426,2.315h14.64l13.36-13.287Z" transform="translate(168.185 48.321)" fill="#fff"/>
+                <path id="路径_124" data-name="路径 124" d="M120,576l2.249-2.249h60.806L185.3,576Z" transform="translate(0 48)" fill="#fff"/>
+                <rect id="矩形_72" data-name="矩形 72" width="4" height="4" transform="translate(406 612)" fill="#fff"/>
+                <rect id="矩形_73" data-name="矩形 73" width="4" height="4" transform="translate(414 612)" fill="#fff"/>
+                <rect id="矩形_74" data-name="矩形 74" width="4" height="4" transform="translate(422 612)" fill="#fff"/>
+                <path id="路径_116" data-name="路径 116" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 932.244)" fill="#fff" opacity="0.8"/>
+                <path id="路径_117" data-name="路径 117" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 961.186)" fill="#fff" opacity="0.6"/>
+                <path id="路径_118" data-name="路径 118" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 990.128)" fill="#fff" opacity="0.4"/>
+                <rect id="矩形_61" data-name="矩形 61" width="8.001" height="1.996" rx="0.998" transform="translate(607.147 264)" fill="#fff"/>
+                <rect id="矩形_62" data-name="矩形 62" width="8.001" height="1.996" rx="0.998" transform="translate(607.147 267.992)" fill="#fff"/>
+                <rect id="矩形_63" data-name="矩形 63" width="8.001" height="1.996" rx="0.998" transform="translate(607.147 271.984)" fill="#fff"/>
+                <rect id="矩形_64" data-name="矩形 64" width="8.001" height="1.996" rx="0.998" transform="translate(607.147 275.976)" fill="#fff"/>
+                <rect id="矩形_65" data-name="矩形 65" width="8.001" height="1.996" rx="0.998" transform="translate(607.147 279.968)" fill="#fff"/>
+                <rect id="矩形_97" data-name="矩形 97" width="2" height="4" transform="translate(348 144)" fill="#fff"/>
+                <rect id="矩形_98" data-name="矩形 98" width="2" height="4" transform="translate(352 144)" fill="#fff"/>
+                <rect id="矩形_99" data-name="矩形 99" width="2" height="4" transform="translate(356 144)" fill="#fff"/>
+                <rect id="矩形_100" data-name="矩形 100" width="2" height="4" transform="translate(360 144)" fill="#fff"/>
+                <rect id="矩形_101" data-name="矩形 101" width="2" height="4" transform="translate(364 144)" fill="#fff"/>
+            </g>
+        </g>
+        <text id="知识讲堂" transform="translate(1320 300)" fill="#fff" font-size="14" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">知</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIBold, Microsoft JhengHei UI" font-weight="400">识讲</tspan><tspan y="0">堂</tspan></text>
+        <text id="Vuex" transform="translate(1392 719)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-12.867" y="0">Vuex</tspan></text>
+        <text id="_1天" data-name="1天" transform="translate(1329 629)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.234" y="0">1</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+        <text id="_2天" data-name="2天" transform="translate(1329 557)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.234" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+        <text id="_0" data-name="0" transform="translate(1329 701)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-3.234" y="0">0</tspan></text>
+        <text id="_5天" data-name="5天" transform="translate(1329 341)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.234" y="0">5</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+        <text id="_4天" data-name="4天" transform="translate(1329 413)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.234" y="0">4</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+        <text id="_3天" data-name="3天" transform="translate(1329 485)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-9.234" y="0">3</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+        <text id="Vue" transform="translate(1464 719)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-10.113" y="0">Vue</tspan></text>
+        <text id="Node.js" transform="translate(1536 717)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-19.975" y="0">Node.js</tspan></text>
+        <text id="Http协议" transform="translate(1608 717)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.01em"><tspan x="-24.154" y="0">Http</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">协议</tspan></text>
+        <text id="登录_注册" data-name="登录/注册" transform="translate(1680 718)" fill="#fff" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-26.338" y="0">登</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">录</tspan><tspan y="0" font-family="SegoeUI, Segoe UI">/</tspan><tspan y="0">注册</tspan></text>
+        <text id="Uml" transform="translate(1753 719)" fill="#fff" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-10.743" y="0">Uml</tspan></text>
+        <text id="数据库搭建" transform="translate(1824 719)" fill="#fff" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-30" y="0">数据</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">库</tspan><tspan y="0">搭建</tspan></text>
+        <line id="直线_3" data-name="直线 3" x1="504" transform="translate(1356 696)" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+        <line id="直线_4" data-name="直线 4" x1="504" transform="translate(1356 624)" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+        <line id="直线_5" data-name="直线 5" x1="504" transform="translate(1356 552)" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+        <line id="直线_6" data-name="直线 6" x1="504" transform="translate(1356 480)" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+        <line id="直线_7" data-name="直线 7" x1="504" transform="translate(1356 408)" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+        <line id="直线_8" data-name="直线 8" x1="504" transform="translate(1356 336)" fill="none" stroke="#fff" stroke-width="1" opacity="0.2"/>
+        <rect id="矩形_137" data-name="矩形 137" width="48" height="336" transform="translate(1800 360)" fill="#3890f8"/>
+        <rect id="矩形_138" data-name="矩形 138" width="48" height="299" transform="translate(1728 397)" fill="#3890f8"/>
+        <rect id="矩形_139" data-name="矩形 139" width="48" height="216" transform="translate(1656 480)" fill="#3890f8"/>
+        <rect id="矩形_140" data-name="矩形 140" width="48" height="324" transform="translate(1584 372)" fill="#3890f8"/>
+        <rect id="矩形_141" data-name="矩形 141" width="48" height="252" transform="translate(1512 444)" fill="#3890f8"/>
+        <rect id="矩形_142" data-name="矩形 142" width="48" height="312" transform="translate(1440 384)" fill="#3890f8"/>
+        <rect id="矩形_143" data-name="矩形 143" width="48" height="360" transform="translate(1368 336)" fill="#3890f8"/>
+    </g>
+</svg>

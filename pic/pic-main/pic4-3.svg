@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="192" viewBox="0 0 160 192">
+    <g id="组_56" data-name="组 56" transform="translate(-648 -144)">
+        <g id="路径_345" data-name="路径 345" transform="translate(-2389)" fill="rgba(139,165,255,0.06)">
+            <path d="M3037,158.035,3051.083,144h106.331l4.184,4.169h30.063l5.261,5.243v53.27l-5.261,5.243v90.733l5.261,5.243.079,23.43L3191.66,336H3139.38l-8.649-6.011h-16.557L3108.141,336h-64.881l-6.032-6.011Z" stroke="none"/>
+            <path d="M 3051.496337890625 145 L 3038.00048828125 158.44921875 L 3038.228515625 329.5732421875 L 3043.673828125 335 L 3107.728271484375 335 L 3113.760009765625 328.989013671875 L 3131.0439453125 328.989013671875 L 3139.693115234375 335 L 3191.284912109375 335 L 3195.99853515625 330.8793334960938 L 3195.9228515625 308.3186950683594 L 3190.660400390625 303.0743713378906 L 3190.660400390625 211.5105590820313 L 3195.92138671875 206.267578125 L 3195.92138671875 153.8275756835938 L 3191.2470703125 149.1693420410156 L 3161.1845703125 149.1693420410156 L 3157.000732421875 145 L 3051.496337890625 145 M 3051.083251953125 144 L 3157.413818359375 144 L 3161.59765625 148.1693420410156 L 3191.660400390625 148.1693420410156 L 3196.92138671875 153.412353515625 L 3196.92138671875 206.6828002929688 L 3191.660400390625 211.92578125 L 3191.660400390625 302.6591491699219 L 3196.92138671875 307.9020690917969 L 3197 331.33203125 L 3191.660400390625 336 L 3139.379638671875 336 L 3130.73046875 329.989013671875 L 3114.173095703125 329.989013671875 L 3108.141357421875 336 L 3043.2607421875 336 L 3037.22900390625 329.989013671875 L 3037 158.0345458984375 L 3051.083251953125 144 Z" stroke="none" fill="rgba(255,255,255,0.16)"/>
+        </g>
+        <path id="路径_179" data-name="路径 179" d="M3109,336V312" transform="translate(-2381 -36)" fill="none" stroke="#fff" stroke-width="1" opacity="0.3"/>
+        <text id="调试次数" transform="translate(728 241)" fill="#fff" font-size="12" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" letter-spacing="0.04em" opacity="0.7"><tspan x="-24.72" y="0">调试</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">次数</tspan></text>
+        <text id="_123" data-name="123" transform="translate(728 215)" fill="#fff" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="-19.406" y="0">123</tspan></text>
+        <circle id="椭圆_44" data-name="椭圆 44" cx="4" cy="4" r="4" transform="translate(724 274)" fill="#fff"/>
+        <rect id="矩形_144" data-name="矩形 144" width="2" height="4" transform="translate(733 144)" fill="#fff"/>
+        <rect id="矩形_145" data-name="矩形 145" width="2" height="4" transform="translate(737 144)" fill="#fff"/>
+        <rect id="矩形_146" data-name="矩形 146" width="2" height="4" transform="translate(741 144)" fill="#fff"/>
+        <rect id="矩形_147" data-name="矩形 147" width="2" height="4" transform="translate(745 144)" fill="#fff"/>
+        <rect id="矩形_148" data-name="矩形 148" width="2" height="4" transform="translate(749 144)" fill="#fff"/>
+        <path id="路径_350" data-name="路径 350" d="M120,576l2.249-2.249h19.5L144,576Z" transform="translate(554 -240)" fill="#fff"/>
+        <rect id="矩形_149" data-name="矩形 149" width="4" height="4" transform="translate(760 332)" fill="#fff"/>
+        <rect id="矩形_150" data-name="矩形 150" width="4" height="4" transform="translate(768 332)" fill="#fff"/>
+        <rect id="矩形_151" data-name="矩形 151" width="4" height="4" transform="translate(776 332)" fill="#fff"/>
+        <rect id="矩形_152" data-name="矩形 152" width="8.001" height="1.996" rx="0.998" transform="translate(797.147 247.036)" fill="#fff"/>
+        <rect id="矩形_153" data-name="矩形 153" width="8.001" height="1.996" rx="0.998" transform="translate(797.147 251.028)" fill="#fff"/>
+        <rect id="矩形_154" data-name="矩形 154" width="8.001" height="1.996" rx="0.998" transform="translate(797.147 255.02)" fill="#fff"/>
+        <rect id="矩形_155" data-name="矩形 155" width="8.001" height="1.996" rx="0.998" transform="translate(797.147 259.012)" fill="#fff"/>
+        <rect id="矩形_156" data-name="矩形 156" width="8.001" height="1.996" rx="0.998" transform="translate(797.147 263.004)" fill="#fff"/>
+    </g>
+</svg>

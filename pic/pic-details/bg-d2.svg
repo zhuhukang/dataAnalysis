@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="432" viewBox="0 0 438 432">
+    <g id="_2" data-name="2" transform="translate(-48 -600)">
+        <g id="框" transform="translate(0 456)">
+            <g id="底" fill="rgba(139,165,255,0.06)">
+                <path d="M96,144H60.971L48,156.971V563.217L60.783,576H248.115l7.45-7.45h28.429l7.45,7.45H472.619L486,562.619V328.959l-12.431-12.431V233.621L486,221.189V156.13l-6.934-6.934H425.2L420,144Z" stroke="none"/>
+                <path d="M 61.38571166992188 145 L 49 157.3857421875 L 49 562.802490234375 L 61.197509765625 575 L 247.7010498046875 575 L 255.1514587402344 567.5496215820313 L 284.4086608886719 567.5496215820313 L 291.8590698242188 575 L 472.2047729492188 575 L 485 562.2047729492188 L 485 329.3728942871094 L 472.568603515625 316.9414978027344 L 472.568603515625 233.2066040039063 L 485 220.7752685546875 L 485 156.5442504882813 L 478.6513977050781 150.1956787109375 L 424.781494140625 150.1956787109375 L 419.5857849121094 145 L 61.38571166992188 145 M 60.97149658203125 144 L 420 144 L 425.1957397460938 149.1956787109375 L 479.0656127929688 149.1956787109375 L 486 156.1300659179688 L 486 221.1895141601563 L 473.568603515625 233.6208190917969 L 473.568603515625 316.5272827148438 L 486 328.9586791992188 L 486 562.6190185546875 L 472.6189880371094 576 L 291.44482421875 576 L 283.9944458007813 568.5496215820313 L 255.565673828125 568.5496215820313 L 248.1152648925781 576 L 60.78326416015625 576 L 48 563.2167358398438 L 48 156.9714965820313 L 60.97149658203125 144 Z" stroke="none" fill="rgba(255,255,255,0.16)"/>
+            </g>
+            <g id="小元素">
+                <path id="路径_121" data-name="路径 121" d="M48,432l6.7,6.7v75.5l-6.7,6Z" transform="translate(0 19.797)" fill="#fff"/>
+                <path id="路径_122" data-name="路径 122" d="M89.872,144v4.244H63.036L51.4,159.884V180.93l-3.4,3.4V157.481L61.481,144Z" fill="#fff"/>
+                <path id="路径_123" data-name="路径 123" d="M455.815,539.679h-3.6v22.028l-11.709,11.957h-9.268L427.815,576h14.64l13.36-13.406Z" transform="translate(30.185)" fill="#fff"/>
+                <path id="路径_124" data-name="路径 124" d="M120,576l2.249-2.249h60.806L185.3,576Z" fill="#fff"/>
+                <rect id="矩形_72" data-name="矩形 72" width="4" height="4" transform="translate(406 567)" fill="#fff"/>
+                <rect id="矩形_73" data-name="矩形 73" width="4" height="4" transform="translate(414 567)" fill="#fff"/>
+                <rect id="矩形_74" data-name="矩形 74" width="4" height="4" transform="translate(422 567)" fill="#fff"/>
+                <path id="路径_116" data-name="路径 116" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 932.244)" fill="#fff" opacity="0.8"/>
+                <path id="路径_117" data-name="路径 117" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 961.186)" fill="#fff" opacity="0.6"/>
+                <path id="路径_118" data-name="路径 118" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 990.128)" fill="#fff" opacity="0.4"/>
+                <rect id="矩形_61" data-name="矩形 61" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 267.529)" fill="#fff"/>
+                <rect id="矩形_62" data-name="矩形 62" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 271.521)" fill="#fff"/>
+                <rect id="矩形_63" data-name="矩形 63" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 275.513)" fill="#fff"/>
+                <rect id="矩形_64" data-name="矩形 64" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 279.505)" fill="#fff"/>
+                <rect id="矩形_65" data-name="矩形 65" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 283.497)" fill="#fff"/>
+                <rect id="矩形_97" data-name="矩形 97" width="2" height="4" transform="translate(348 144)" fill="#fff"/>
+                <rect id="矩形_98" data-name="矩形 98" width="2" height="4" transform="translate(352 144)" fill="#fff"/>
+                <rect id="矩形_99" data-name="矩形 99" width="2" height="4" transform="translate(356 144)" fill="#fff"/>
+                <rect id="矩形_100" data-name="矩形 100" width="2" height="4" transform="translate(360 144)" fill="#fff"/>
+                <rect id="矩形_101" data-name="矩形 101" width="2" height="4" transform="translate(364 144)" fill="#fff"/>
+            </g>
+        </g>
+        <text id="项目完成率" transform="translate(72 636)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIBold, Microsoft JhengHei UI"><tspan x="0" y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700">目完成率</tspan></text>
+        <g id="组_46" data-name="组 46" transform="translate(-462 467)">
+            <path id="减去_11" data-name="减去 11" d="M84,140H24a141.036,141.036,0,0,1,2.844-28.215A139.233,139.233,0,0,1,47.91,61.725,140.43,140.43,0,0,1,109.506,11a139.329,139.329,0,0,1,26.279-8.158,141.381,141.381,0,0,1,56.43,0,139.213,139.213,0,0,1,50.06,21.066A140.4,140.4,0,0,1,293,85.505a139.232,139.232,0,0,1,8.158,26.279A141.042,141.042,0,0,1,304,140H244a80.611,80.611,0,0,0-1.625-16.12,79.581,79.581,0,0,0-12.037-28.606,80.247,80.247,0,0,0-35.2-28.984,79.593,79.593,0,0,0-15.016-4.661,80.779,80.779,0,0,0-32.246,0,79.543,79.543,0,0,0-28.606,12.037,80.24,80.24,0,0,0-28.985,35.2,79.556,79.556,0,0,0-4.661,15.017A80.547,80.547,0,0,0,84,140Z" transform="translate(893 513.002) rotate(180)" fill="#3890f8"/>
+            <path id="减去_15" data-name="减去 15" d="M338,140H207a43,43,0,1,0-86,0H-10a175.24,175.24,0,0,1,3.535-35.067A173.056,173.056,0,0,1,19.717,42.715a174.507,174.507,0,0,1,76.554-63.04,173.131,173.131,0,0,1,32.662-10.139,175.685,175.685,0,0,1,70.133,0A173.038,173.038,0,0,1,261.284-4.283a174.5,174.5,0,0,1,63.041,76.555,173.1,173.1,0,0,1,10.138,32.661A175.305,175.305,0,0,1,338,140Z" transform="translate(565 233.001)" fill="#76fbe3" opacity="0.2"/>
+            <path id="减去_13" data-name="减去 13" d="M79,140H24a141.036,141.036,0,0,1,2.844-28.215A139.233,139.233,0,0,1,47.91,61.725,140.43,140.43,0,0,1,109.506,11a139.329,139.329,0,0,1,26.279-8.158,141.381,141.381,0,0,1,56.43,0,139.213,139.213,0,0,1,50.06,21.066A140.4,140.4,0,0,1,293,85.505a139.232,139.232,0,0,1,8.158,26.279A141.042,141.042,0,0,1,304,140H249a85.644,85.644,0,0,0-1.727-17.128,84.53,84.53,0,0,0-12.79-30.394,85.262,85.262,0,0,0-37.4-30.8A84.578,84.578,0,0,0,181.13,56.73a85.815,85.815,0,0,0-34.26,0,84.529,84.529,0,0,0-30.394,12.79,85.244,85.244,0,0,0-30.8,37.4,84.505,84.505,0,0,0-4.953,15.955A85.578,85.578,0,0,0,79,140Z" transform="translate(565 233.001)" fill="#76fbe3"/>
+            <text id="_89_" data-name="89%" transform="translate(729 266)" fill="#3a4747" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-14.123" y="0">89%</tspan></text>
+            <text id="_96_" data-name="96%" transform="translate(729 488)" fill="#fff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-14.123" y="0">96%</tspan></text>
+            <text id="_1期" data-name="1期" transform="translate(718 221)" fill="#a8f5ff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+            <text id="_2期" data-name="2期" transform="translate(718 535)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+        </g>
+    </g>
+</svg>

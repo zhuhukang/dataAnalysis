@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="432" viewBox="0 0 438 432">
+    <g id="_3" data-name="3" transform="translate(-48 -600)">
+        <g id="框" transform="translate(0 456)">
+            <g id="底" fill="rgba(139,165,255,0.06)">
+                <path d="M96,144H60.971L48,156.971V563.217L60.783,576H248.115l7.45-7.45h28.429l7.45,7.45H472.619L486,562.619V328.959l-12.431-12.431V233.621L486,221.189V156.13l-6.934-6.934H425.2L420,144Z" stroke="none"/>
+                <path d="M 61.38571166992188 145 L 49 157.3857421875 L 49 562.802490234375 L 61.197509765625 575 L 247.7010498046875 575 L 255.1514587402344 567.5496215820313 L 284.4086608886719 567.5496215820313 L 291.8590698242188 575 L 472.2047729492188 575 L 485 562.2047729492188 L 485 329.3728942871094 L 472.568603515625 316.9414978027344 L 472.568603515625 233.2066040039063 L 485 220.7752685546875 L 485 156.5442504882813 L 478.6513977050781 150.1956787109375 L 424.781494140625 150.1956787109375 L 419.5857849121094 145 L 61.38571166992188 145 M 60.97149658203125 144 L 420 144 L 425.1957397460938 149.1956787109375 L 479.0656127929688 149.1956787109375 L 486 156.1300659179688 L 486 221.1895141601563 L 473.568603515625 233.6208190917969 L 473.568603515625 316.5272827148438 L 486 328.9586791992188 L 486 562.6190185546875 L 472.6189880371094 576 L 291.44482421875 576 L 283.9944458007813 568.5496215820313 L 255.565673828125 568.5496215820313 L 248.1152648925781 576 L 60.78326416015625 576 L 48 563.2167358398438 L 48 156.9714965820313 L 60.97149658203125 144 Z" stroke="none" fill="rgba(255,255,255,0.16)"/>
+            </g>
+            <g id="小元素">
+                <path id="路径_121" data-name="路径 121" d="M48,432l6.7,6.7v75.5l-6.7,6Z" transform="translate(0 19.797)" fill="#fff"/>
+                <path id="路径_122" data-name="路径 122" d="M89.872,144v4.244H63.036L51.4,159.884V180.93l-3.4,3.4V157.481L61.481,144Z" fill="#fff"/>
+                <path id="路径_123" data-name="路径 123" d="M455.815,539.679h-3.6v22.028l-11.709,11.957h-9.268L427.815,576h14.64l13.36-13.406Z" transform="translate(30.185)" fill="#fff"/>
+                <path id="路径_124" data-name="路径 124" d="M120,576l2.249-2.249h60.806L185.3,576Z" fill="#fff"/>
+                <rect id="矩形_72" data-name="矩形 72" width="4" height="4" transform="translate(406 567)" fill="#fff"/>
+                <rect id="矩形_73" data-name="矩形 73" width="4" height="4" transform="translate(414 567)" fill="#fff"/>
+                <rect id="矩形_74" data-name="矩形 74" width="4" height="4" transform="translate(422 567)" fill="#fff"/>
+                <path id="路径_116" data-name="路径 116" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 932.244)" fill="#fff" opacity="0.8"/>
+                <path id="路径_117" data-name="路径 117" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 961.186)" fill="#fff" opacity="0.6"/>
+                <path id="路径_118" data-name="路径 118" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 990.128)" fill="#fff" opacity="0.4"/>
+                <rect id="矩形_61" data-name="矩形 61" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 267.529)" fill="#fff"/>
+                <rect id="矩形_62" data-name="矩形 62" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 271.521)" fill="#fff"/>
+                <rect id="矩形_63" data-name="矩形 63" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 275.513)" fill="#fff"/>
+                <rect id="矩形_64" data-name="矩形 64" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 279.505)" fill="#fff"/>
+                <rect id="矩形_65" data-name="矩形 65" width="8.001" height="1.996" rx="0.998" transform="translate(469.147 283.497)" fill="#fff"/>
+                <rect id="矩形_97" data-name="矩形 97" width="2" height="4" transform="translate(348 144)" fill="#fff"/>
+                <rect id="矩形_98" data-name="矩形 98" width="2" height="4" transform="translate(352 144)" fill="#fff"/>
+                <rect id="矩形_99" data-name="矩形 99" width="2" height="4" transform="translate(356 144)" fill="#fff"/>
+                <rect id="矩形_100" data-name="矩形 100" width="2" height="4" transform="translate(360 144)" fill="#fff"/>
+                <rect id="矩形_101" data-name="矩形 101" width="2" height="4" transform="translate(364 144)" fill="#fff"/>
+            </g>
+        </g>
+        <text id="已完成项目" transform="translate(72 636)" fill="#fff" font-size="14" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700"><tspan x="0" y="0">已完成</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIBold, Microsoft JhengHei UI" font-weight="400">项</tspan><tspan y="0">目</tspan></text>
+        <text id="桌面日历" transform="translate(207 800)" fill="#fff7d5" font-size="18" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.04em"><tspan x="0" y="0">桌面日</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">历</tspan></text>
+        <text id="二维码生成器" transform="translate(285 725)" fill="#d5bfff" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.04em"><tspan x="0" y="0">二</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">维码</tspan><tspan y="0">生成器</tspan></text>
+        <text id="红芯书院官网" transform="translate(335 852)" fill="#ccffd8" font-size="16" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" letter-spacing="0.04em"><tspan x="0" y="0">红</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">芯</tspan><tspan y="0">书</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">院官网</tspan></text>
+        <text id="剪贴板工具" transform="translate(141 878)" fill="#e6ffd5" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.04em"><tspan x="0" y="0">剪</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">贴</tspan><tspan y="0">板工具</tspan></text>
+        <text id="展厅官网" transform="translate(165 934)" fill="#a8f5ff" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.04em"><tspan x="0" y="0">展</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">厅</tspan><tspan y="0">官网</tspan></text>
+        <text id="知识检索平台" transform="translate(328 969)" fill="#ffd5f9" font-size="16" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.04em"><tspan x="0" y="0">知</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">识检</tspan><tspan y="0">索平台</tspan></text>
+        <text id="剪贴板工具-2" data-name="剪贴板工具" transform="translate(125 751)" fill="#ffc6c6" font-size="12" font-family="YuGothicUI-Regular, Yu Gothic UI" letter-spacing="0.04em"><tspan x="0" y="0">剪</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">贴</tspan><tspan y="0">板工具</tspan></text>
+    </g>
+</svg>

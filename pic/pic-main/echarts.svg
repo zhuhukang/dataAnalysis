@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="870" height="559" style="user-select: none; position: absolute; left: 0px; top: 0px;">
+<g>
+<rect width="870" height="559" x="0" y="0" id="0" fill="none" fill-opacity="1">
+</rect>
+</g>
+<g>
+<path d="M 530.6709 48.5301 L 536.4111 34.6719 L 551.4109 34.6719" fill="none" stroke="#5470c6" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 656.7311 187.656 L 679.8281 178.0889 L 694.8279 178.0889" fill="none" stroke="rgb(145,204,117)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 629.0147 359.8635 L 679.8281 380.9111 L 694.8277 380.9111" fill="none" stroke="rgb(250,200,88)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 511.5367 464.2759 L 536.4111 524.3281 L 551.4107 524.3281" fill="none" stroke="rgb(238,102,102)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 362.2901 455.0371 L 333.5889 524.3281 L 318.5894 524.3281" fill="none" stroke="rgb(115,192,222)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 268.7017 348.383 L 190.1719 380.9111 L 175.1725 380.9111" fill="none" stroke="#3ba272" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 287.1793 218.2707 L 190.1719 178.0889 L 175.1726 178.0889" fill="none" stroke="#fc8452" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 381.4243 150.1569 L 333.5889 34.6719 L 318.5896 34.6719" fill="none" stroke="rgb(154,96,180)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 435 37.6323 A 8 8 0 0 1 443.2645 29.6366 A 250 250 0 0 1 605.8362 96.9761 A 8 8 0 0 1 606.0263 108.4737 L 475.6202 238.8798 A 8 8 0 0 1 465.1408 239.606 A 50 50 0 0 0 441.8966 229.9779 A 8 8 0 0 1 435 222.0544 Z" fill="#5470c6" fill-opacity="1" stroke="none">
+</path>
+<path d="M 598.9512 115.5488 A 8 8 0 0 1 610.4566 115.7472 A 240 240 0 0 1 674.8573 271.2241 A 8 8 0 0 1 666.862 279.5 L 492.4456 279.5 A 8 8 0 0 1 484.5221 272.6034 A 50 50 0 0 0 474.894 249.3592 A 8 8 0 0 1 475.6202 238.8798 Z" fill="rgb(145,204,117)" fill-opacity="1" stroke="none">
+</path>
+<path d="M 636.8415 279.5 A 8 8 0 0 1 644.8352 287.8168 A 210 210 0 0 1 589.2568 421.995 A 8 8 0 0 1 577.7235 422.2235 L 475.6202 320.1202 A 8 8 0 0 1 474.894 309.6408 A 50 50 0 0 0 484.5221 286.3966 A 8 8 0 0 1 492.4456 279.5 Z" fill="rgb(250,200,88)" fill-opacity="1" stroke="none">
+</path>
+<path d="M 570.6466 415.1466 A 8 8 0 0 1 570.406 426.6911 A 200 200 0 0 1 443.3333 479.3263 A 8 8 0 0 1 435 471.3333 L 435 336.9456 A 8 8 0 0 1 441.8966 329.0221 A 50 50 0 0 0 465.1408 319.394 A 8 8 0 0 1 475.6202 320.1202 Z" fill="rgb(238,102,102)" fill-opacity="1" stroke="none">
+</path>
+<path d="M 435 461.3241 A 8 8 0 0 1 426.6484 469.3164 A 190 190 0 0 1 306.6851 419.6259 A 8 8 0 0 1 306.431 408.069 L 394.3798 320.1202 A 8 8 0 0 1 404.8592 319.394 A 50 50 0 0 0 428.1034 329.0221 A 8 8 0 0 1 435 336.9456 Z" fill="rgb(115,192,222)" fill-opacity="1" stroke="none">
+</path>
+<path d="M 313.5093 400.9907 A 8 8 0 0 1 301.9386 400.7215 A 180 180 0 0 1 255.1948 287.8721 A 8 8 0 0 1 263.1861 279.5 L 377.5544 279.5 A 8 8 0 0 1 385.4779 286.3966 A 50 50 0 0 0 395.106 309.6408 A 8 8 0 0 1 394.3798 320.1202 Z" fill="#3ba272" fill-opacity="1" stroke="none">
+</path>
+<path d="M 283.2107 279.5 A 8 8 0 0 1 275.2218 271.0789 A 160 160 0 0 1 316.0651 172.4743 A 8 8 0 0 1 327.6687 172.1687 L 394.3798 238.8798 A 8 8 0 0 1 395.106 249.3592 A 50 50 0 0 0 385.4779 272.6034 A 8 8 0 0 1 377.5544 279.5 Z" fill="#fc8452" fill-opacity="1" stroke="none">
+</path>
+<path d="M 341.8335 186.3335 A 8 8 0 0 1 342.1867 174.6873 A 140 140 0 0 1 426.5152 139.7574 A 8 8 0 0 1 435 147.7426 L 435 222.0544 A 8 8 0 0 1 428.1034 229.9779 A 50 50 0 0 0 404.8592 239.606 A 8 8 0 0 1 394.3798 238.8798 Z" fill="rgb(154,96,180)" fill-opacity="1" stroke="none">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,556.4111,34.6719)" dominant-baseline="central" text-anchor="start" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 1</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,699.8281,178.0889)" dominant-baseline="central" text-anchor="start" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 2</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,699.8281,380.9111)" dominant-baseline="central" text-anchor="start" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 3</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,556.4111,524.3281)" dominant-baseline="central" text-anchor="start" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 4</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,313.5889,524.3281)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 5</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,170.1719,380.9111)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 6</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,170.1719,178.0889)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 7</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,313.5889,34.6719)" dominant-baseline="central" text-anchor="end" x="0" y="0" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 8</text>
+<path d="M -5 -5 L 594.9375 -5 L 594.9375 19 L -5 19 L -5 -5 Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,140.0313,540)">
+</path>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#5470c6" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,140.0313,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,140.0313,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 1</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#91cc75" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,215.0234,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,215.0234,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 2</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#fac858" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,290.0156,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,290.0156,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 3</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#ee6666" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,365.0078,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,365.0078,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 4</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#73c0de" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,440,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,440,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 5</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#3ba272" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,514.9922,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,514.9922,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 6</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#fc8452" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,589.9844,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,589.9844,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 7</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#9a60b4" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,664.9766,540)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,664.9766,540)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">rose 8</text>
+</g>
+</svg>

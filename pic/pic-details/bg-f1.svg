@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1362" height="432" viewBox="0 0 1362 432">
+    <g id="_5" data-name="5" transform="translate(-480 -144)">
+        <g id="底" transform="translate(432 0.075)" fill="rgba(139,165,255,0.06)">
+            <path d="M95.967,144h-35L48,156.969V563.144l12.774,12.781H592.62l7.445-7.449h208.49L816,575.925l580.628-.075L1410,562.471V328.851l-12.423-12.429V233.53L1410,221.1V156.053l-6.93-6.933H1109.192L1104,143.925Z" stroke="none"/>
+            <path d="M 1103.585693359375 144.9248657226563 L 95.966552734375 145 L 61.376708984375 145 L 49 157.38330078125 L 49 562.7296142578125 L 61.1888427734375 574.9248046875 L 592.2052001953125 574.9248046875 L 599.6505126953125 567.4756469726563 L 808.9691772460938 567.4756469726563 L 816.4144287109375 574.9247436523438 L 1396.213745117188 574.8496704101563 L 1409 562.0567626953125 L 1409 329.2655029296875 L 1396.5771484375 316.8361511230469 L 1396.5771484375 233.1161499023438 L 1396.869873046875 232.8231506347656 L 1409 220.6866149902344 L 1409 156.4669799804688 L 1402.655883789063 150.11962890625 L 1108.777709960938 150.11962890625 L 1103.585693359375 144.9248657226563 M 1104 143.9248046875 L 1109.192016601563 149.11962890625 L 1403.0703125 149.11962890625 L 1410 156.0527954101563 L 1410 221.1007995605469 L 1397.5771484375 233.5301513671875 L 1397.5771484375 316.4221496582031 L 1410 328.851318359375 L 1410 562.470947265625 L 1396.628295898438 575.849609375 L 816 575.9248046875 L 808.5548095703125 568.4756469726563 L 600.0648193359375 568.4756469726563 L 592.6196899414063 575.9248046875 L 60.7742919921875 575.9248046875 L 48 563.143798828125 L 48 156.9692993164063 L 60.9622802734375 144 L 95.966552734375 144 L 1104 143.9248046875 Z" stroke="none" fill="rgba(255,255,255,0.16)"/>
+        </g>
+        <g id="小元素层">
+            <path id="路径_126" data-name="路径 126" d="M89.872,144v4.244H63.036L51.4,159.884V180.93l-3.4,3.4V157.481L61.481,144Z" transform="translate(432)" fill="#fff"/>
+            <path id="路径_127" data-name="路径 127" d="M48,432l6.7,6.7v75.5l-6.7,6Z" transform="translate(432 19.797)" fill="#fff"/>
+            <path id="路径_128" data-name="路径 128" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2483.104 932.244)" fill="#fff" opacity="0.8"/>
+            <path id="路径_129" data-name="路径 129" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2483.104 961.186)" fill="#fff" opacity="0.6"/>
+            <path id="路径_130" data-name="路径 130" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2483.104 990.128)" fill="#fff" opacity="0.4"/>
+            <path id="路径_131" data-name="路径 131" d="M-26.249,576-24,573.751H183.055L185.3,576Z" transform="translate(576)" fill="#fff" opacity="0.8"/>
+            <path id="路径_132" data-name="路径 132" d="M456,539.679h-3.622v22.028l-11.786,11.957h-9.329L427.815,576h14.736L456,562.594Z" transform="translate(1386)" fill="#fff"/>
+            <rect id="矩形_75" data-name="矩形 75" width="4" height="4" transform="translate(1752 567)" fill="#fff"/>
+            <rect id="矩形_76" data-name="矩形 76" width="4" height="4" transform="translate(1760 567)" fill="#fff"/>
+            <rect id="矩形_77" data-name="矩形 77" width="4" height="4" transform="translate(1768 567)" fill="#fff"/>
+            <path id="路径_133" data-name="路径 133" d="M1092.839,144l5.038,5H1187.8l5.038-5Z" transform="translate(-156.839)" fill="#fff"/>
+            <rect id="矩形_61" data-name="矩形 61" width="8.001" height="1.996" rx="0.998" transform="translate(1825 270.036)" fill="#fff"/>
+            <rect id="矩形_62" data-name="矩形 62" width="8.001" height="1.996" rx="0.998" transform="translate(1825 274.028)" fill="#fff"/>
+            <rect id="矩形_63" data-name="矩形 63" width="8.001" height="1.996" rx="0.998" transform="translate(1825 278.02)" fill="#fff"/>
+            <rect id="矩形_64" data-name="矩形 64" width="8.001" height="1.996" rx="0.998" transform="translate(1825 282.012)" fill="#fff"/>
+            <rect id="矩形_65" data-name="矩形 65" width="8.001" height="1.996" rx="0.998" transform="translate(1825 286.004)" fill="#fff"/>
+            <path id="路径_97" data-name="路径 97" d="M-1684.247-405.868l-4.848,4.848h4.152l4.848-4.848Z" transform="translate(2721.095 977.02)" fill="#fff"/>
+            <path id="路径_134" data-name="路径 134" d="M-1684.247-405.868l-4.848,4.848h4.152l4.848-4.848Z" transform="translate(2732.095 977.02)" fill="#fff" opacity="0.8"/>
+            <path id="路径_135" data-name="路径 135" d="M-1684.247-405.868l-4.848,4.848h4.152l4.848-4.848Z" transform="translate(2743.095 977.02)" fill="#fff" opacity="0.6"/>
+            <path id="路径_136" data-name="路径 136" d="M-1684.247-405.868l-4.848,4.848h4.152l4.848-4.848Z" transform="translate(2754.095 977.02)" fill="#fff" opacity="0.4"/>
+            <path id="路径_137" data-name="路径 137" d="M-1684.247-405.868l-4.848,4.848h4.152l4.848-4.848Z" transform="translate(2765.095 977.02)" fill="#fff" opacity="0.2"/>
+            <rect id="矩形_78" data-name="矩形 78" width="14" height="2" transform="translate(1828 480)" fill="#fff"/>
+            <rect id="矩形_79" data-name="矩形 79" width="14" height="2" transform="translate(1828 488)" fill="#fff"/>
+            <rect id="矩形_80" data-name="矩形 80" width="14" height="2" transform="translate(1828 496)" fill="#fff"/>
+            <rect id="矩形_81" data-name="矩形 81" width="48" height="1" transform="translate(1191 575)" fill="#fff" opacity="0.2"/>
+            <rect id="矩形_102" data-name="矩形 102" width="2" height="4" transform="translate(1326 144)" fill="#fff"/>
+            <rect id="矩形_103" data-name="矩形 103" width="2" height="4" transform="translate(1330 144)" fill="#fff"/>
+            <rect id="矩形_104" data-name="矩形 104" width="2" height="4" transform="translate(1334 144)" fill="#fff"/>
+            <rect id="矩形_105" data-name="矩形 105" width="2" height="4" transform="translate(1338 144)" fill="#fff"/>
+            <rect id="矩形_106" data-name="矩形 106" width="2" height="4" transform="translate(1342 144)" fill="#fff"/>
+        </g>
+        <text id="项目报表" transform="translate(504 180)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIBold, Microsoft JhengHei UI"><tspan x="0" y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700">目</tspan><tspan y="0">报</tspan><tspan y="0" font-family="YuGothicUI-Bold, Yu Gothic UI" font-weight="700">表</tspan></text>
+        <g id="组_38" data-name="组 38">
+            <g id="矩形_111" data-name="矩形 111" transform="translate(504 232)" fill="rgba(64,101,226,0.04)" stroke="rgba(255,255,255,0.12)" stroke-linejoin="bevel" stroke-width="1" opacity="0.999">
+                <rect width="1314" height="320" stroke="none"/>
+                <rect x="0.5" y="0.5" width="1313" height="319" fill="none"/>
+            </g>
+            <g id="标题位" transform="translate(0 -12)">
+                <text id="项目名称" transform="translate(689 230)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" opacity="0.636"><tspan x="-28" y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">目名称</tspan></text>
+                <text id="编号" transform="translate(542 230)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" opacity="0.636"><tspan x="-14" y="0">编</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">号</tspan></text>
+                <text id="所属项目组" transform="translate(1170 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-35" y="0">所属</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">项</tspan><tspan y="0">目</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">组</tspan></text>
+                <text id="简介" transform="translate(926 230)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" opacity="0.636"><tspan x="-14" y="0">简</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">介</tspan></text>
+                <text id="状态" transform="translate(1009 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-14" y="0">状</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">态</tspan></text>
+                <text id="分类" transform="translate(843 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-14" y="0">分类</tspan></text>
+                <text id="期数" transform="translate(1324 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-14" y="0">期数</tspan></text>
+                <text id="起止日期" transform="translate(1430 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-28" y="0">起止日期</tspan></text>
+                <text id="构思" transform="translate(1538 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-14" y="0">构思</tspan></text>
+                <text id="编码" transform="translate(1614 230)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" opacity="0.636"><tspan x="-14" y="0">编码</tspan></text>
+                <text id="核验" transform="translate(1690 230)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI" opacity="0.636"><tspan x="-14" y="0">核</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">验</tspan></text>
+                <text id="总用时" transform="translate(1773 230)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI" opacity="0.636"><tspan x="-21" y="0">总</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">用</tspan><tspan y="0">时</tspan></text>
+            </g>
+            <rect id="hov-背景条" width="1314" height="34" transform="translate(504 344)" fill="#4065e2" opacity="0.4"/>
+            <g id="组_40" data-name="组 40">
+                <text id="这个是项目的名称呀" transform="translate(689 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-63" y="0">这</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">个是</tspan><tspan y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">目的名称呀</tspan></text>
+                <text id="_01" data-name="01" transform="translate(542 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-7.547" y="0">01</tspan></text>
+                <text id="某某某某项目组啊啊" transform="translate(1170 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-63" y="0">某某某某</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">项</tspan><tspan y="0">目</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">组</tspan><tspan y="0">啊啊</tspan></text>
+                <text id="桌面端" transform="translate(843 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">桌面端</tspan></text>
+                <text id="_1期" data-name="1期" transform="translate(1324 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">1</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+                <text id="_2021.8.1_8.26" data-name="2021.8.1~8.26" transform="translate(1431 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-43.638" y="0">2021.8.1~8.26</tspan></text>
+                <text id="_2天" data-name="2天" transform="translate(1538 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_14天" data-name="14天" transform="translate(1614 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_3天" data-name="3天" transform="translate(1690 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">3</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_31天" data-name="31天" transform="translate(1773 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">31</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="查看" transform="translate(926 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-14" y="0">查</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">看</tspan></text>
+                <text id="已完成" transform="translate(1009 264)" fill="#bcffbc" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">已完成</tspan></text>
+            </g>
+            <g id="组_44" data-name="组 44" transform="translate(0 102)">
+                <text id="这个是项目的名" transform="translate(689 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-49" y="0">这</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">个是</tspan><tspan y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">目的名</tspan></text>
+                <text id="_04" data-name="04" transform="translate(542 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-7.547" y="0">04</tspan></text>
+                <text id="某某某某项" transform="translate(1170 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-35" y="0">某某某某</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">项</tspan></text>
+                <text id="桌面端-2" data-name="桌面端" transform="translate(843 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">桌面端</tspan></text>
+                <text id="_1期-2" data-name="1期" transform="translate(1324 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">1</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+                <text id="_2021.8.1_8.26-2" data-name="2021.8.1~8.26" transform="translate(1431 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-43.638" y="0">2021.8.1~8.26</tspan></text>
+                <text id="_2天-2" data-name="2天" transform="translate(1538 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_14天-2" data-name="14天" transform="translate(1614 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_3天-2" data-name="3天" transform="translate(1690 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">3</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_31天-2" data-name="31天" transform="translate(1773 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">31</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="查看-2" data-name="查看" transform="translate(926 264)" fill="#ffe7b2" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-14" y="0">查</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">看</tspan></text>
+                <text id="已完成-2" data-name="已完成" transform="translate(1009 264)" fill="#bcffbc" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">已完成</tspan></text>
+            </g>
+            <g id="组_49" data-name="组 49" transform="translate(0 136)">
+                <text id="这个是项目的名-2" data-name="这个是项目的名" transform="translate(689 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-49" y="0">这</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">个是</tspan><tspan y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">目的名</tspan></text>
+                <text id="_05" data-name="05" transform="translate(542 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-7.547" y="0">05</tspan></text>
+                <text id="某某某某项-2" data-name="某某某某项" transform="translate(1170 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-35" y="0">某某某某</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">项</tspan></text>
+                <text id="桌面端-3" data-name="桌面端" transform="translate(843 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">桌面端</tspan></text>
+                <text id="_1期-3" data-name="1期" transform="translate(1324 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">1</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+                <text id="_2021.8.1_8.26-3" data-name="2021.8.1~8.26" transform="translate(1431 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-43.638" y="0">2021.8.1~8.26</tspan></text>
+                <text id="_2天-3" data-name="2天" transform="translate(1538 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_14天-3" data-name="14天" transform="translate(1614 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_3天-3" data-name="3天" transform="translate(1690 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">3</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_31天-3" data-name="31天" transform="translate(1773 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">31</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="查看-3" data-name="查看" transform="translate(926 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-14" y="0">查</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">看</tspan></text>
+                <text id="已完成-3" data-name="已完成" transform="translate(1009 264)" fill="#ffbcbc" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">已完成</tspan></text>
+            </g>
+            <g id="组_42" data-name="组 42" transform="translate(0 34)">
+                <text id="这个是项目" transform="translate(689 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-35" y="0">这</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">个是</tspan><tspan y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">目</tspan></text>
+                <text id="_02" data-name="02" transform="translate(542 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-7.547" y="0">02</tspan></text>
+                <text id="某某某某项目组啊" transform="translate(1170 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-56" y="0">某某某某</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">项</tspan><tspan y="0">目</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">组</tspan><tspan y="0">啊</tspan></text>
+                <text id="桌面端-4" data-name="桌面端" transform="translate(843 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">桌面端</tspan></text>
+                <text id="_1期-4" data-name="1期" transform="translate(1324 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">1</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+                <text id="_2021.8.1_8.26-4" data-name="2021.8.1~8.26" transform="translate(1431 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-43.638" y="0">2021.8.1~8.26</tspan></text>
+                <text id="_2天-4" data-name="2天" transform="translate(1538 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_14天-4" data-name="14天" transform="translate(1614 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_3天-4" data-name="3天" transform="translate(1690 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">3</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_31天-4" data-name="31天" transform="translate(1773 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">31</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="查看-4" data-name="查看" transform="translate(926 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-14" y="0">查</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">看</tspan></text>
+                <text id="已完成-4" data-name="已完成" transform="translate(1009 264)" fill="#bcffbc" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">已完成</tspan></text>
+            </g>
+            <g id="组_43" data-name="组 43" transform="translate(0 68)">
+                <text id="这个是项目的名称" transform="translate(689 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-56" y="0">这</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">个是</tspan><tspan y="0">项</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">目的名称</tspan></text>
+                <text id="_03" data-name="03" transform="translate(542 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-7.547" y="0">03</tspan></text>
+                <text id="某某某某项目组啊啊啊" transform="translate(1170 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-70" y="0">某某某某</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">项</tspan><tspan y="0">目</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">组</tspan><tspan y="0">啊啊啊</tspan></text>
+                <text id="移动端" transform="translate(843 264)" fill="#fff" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">移</tspan><tspan y="0" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">动</tspan><tspan y="0">端</tspan></text>
+                <text id="_2期" data-name="2期" transform="translate(1324 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">期</tspan></text>
+                <text id="_2021.8.1_8.26-5" data-name="2021.8.1~8.26" transform="translate(1431 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.004em"><tspan x="-43.638" y="0">2021.8.1~8.26</tspan></text>
+                <text id="_2天-5" data-name="2天" transform="translate(1538 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">2</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_14天-5" data-name="14天" transform="translate(1614 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">14</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_3天-5" data-name="3天" transform="translate(1690 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-10.773" y="0">3</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="_31天-5" data-name="31天" transform="translate(1773 264)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="-14.547" y="0">31</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">天</tspan></text>
+                <text id="查看-5" data-name="查看" transform="translate(926 264)" fill="#fff" font-size="14" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI"><tspan x="-14" y="0">查</tspan><tspan y="0" font-family="YuGothicUI-Regular, Yu Gothic UI">看</tspan></text>
+                <text id="未完成" transform="translate(1009 264)" fill="#ffbcbc" font-size="14" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="-21" y="0">未完成</tspan></text>
+            </g>
+            <g id="简介-2" data-name="简介" transform="translate(-2 98)">
+                <rect id="矩形_129" data-name="矩形 129" width="228" height="70" rx="4" transform="translate(866 176)" fill="#fff"/>
+                <text id="Hov查看_显示20个字左右的简介呀啊啊啊啊啊_" data-name="Hov查看，显示20个字左右的简介呀啊啊啊啊啊。" transform="translate(882 192)" fill="#333" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Hov</tspan><tspan y="15" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">查</tspan><tspan y="15" font-family="YuGothicUI-Regular, Yu Gothic UI">看，</tspan><tspan y="15" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">显</tspan><tspan y="15" font-family="YuGothicUI-Regular, Yu Gothic UI">示</tspan><tspan y="15">20</tspan><tspan y="15" font-family="YuGothicUI-Regular, Yu Gothic UI">个字左右的</tspan><tspan y="15" font-family="MicrosoftJhengHeiUIRegular, Microsoft JhengHei UI">简</tspan><tspan x="0" y="34" font-family="YuGothicUI-Regular, Yu Gothic UI">介呀啊啊啊啊啊。</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>

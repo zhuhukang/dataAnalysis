@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="842" height="531" style="user-select: none; position: absolute; left: 0px; top: 0px;">
+<g>
+<rect width="842" height="531" x="0" y="0" id="0" fill="none" fill-opacity="1">
+</rect>
+</g>
+<g>
+<path d="M 573.9748 221.0567 L 602.7836 212.687 L 617.7836 212.687" fill="none" stroke="rgb(250,200,88)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 381.3837 419.7953 L 373.923 448.8528 L 358.923 448.8528" fill="none" stroke="#ee6666" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 262.407 250.5085 L 232.5401 247.6853 L 217.5401 247.6853" fill="none" stroke="rgb(115,192,222)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 353.1734 121.3611 L 340.4 94.2162 L 325.4 94.2162" fill="none" stroke="rgb(59,162,114)" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10">
+</path>
+<path d="M 421 185.85 A 79.65 79.65 0 1 1 352.093 305.4493 L 421 265.5 Z" fill="#5470c6" fill-opacity="1" stroke="none">
+</path>
+<path d="M 352.093 305.4493 A 79.65 79.65 0 0 1 421 185.85 L 421 265.5 Z" fill="#91cc75" fill-opacity="1" stroke="none">
+</path>
+<path d="M 421 106.2 A 159.3 159.3 0 0 1 506.3572 400.0014 L 485.0179 366.3761 A 119.475 119.475 0 0 0 421 146.025 Z" fill="rgb(250,200,88)" fill-opacity="1" stroke="none">
+</path>
+<path d="M 506.3572 400.0014 A 159.3 159.3 0 0 1 281.4043 342.2434 L 316.3033 323.0575 A 119.475 119.475 0 0 0 485.0179 366.3761 Z" fill="#ee6666" fill-opacity="1" stroke="none">
+</path>
+<path d="M 281.4043 342.2434 A 159.3 159.3 0 0 1 298.2572 163.9584 L 328.9429 189.3438 A 119.475 119.475 0 0 0 316.3033 323.0575 Z" fill="rgb(115,192,222)" fill-opacity="1" stroke="none">
+</path>
+<path d="M 298.2572 163.9584 A 159.3 159.3 0 0 1 421 106.2 L 421 146.025 A 119.475 119.475 0 0 0 328.9429 189.3438 Z" fill="rgb(59,162,114)" fill-opacity="1" stroke="none">
+</path>
+<text xml:space="preserve" fill="#eee" fill-opacity="1" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="2" transform="matrix(1,0,0,1,458.1068,286.8791)" dominant-baseline="central" text-anchor="middle" x="0" y="0" style="font: 14px &quot;Microsoft YaHei&quot;;">CS架构</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,383.8932,244.1209)" dominant-baseline="central" text-anchor="middle" x="0" y="0" style="font: 14px &quot;Microsoft YaHei&quot;;">BS架构</text>
+<path d="M 4 -27.5 L 134.1289 -27.5 A 4 4 0 0 1 138.1289 -23.5 L 138.1289 23.5 A 4 4 0 0 1 134.1289 27.5 L 4 27.5 A 4 4 0 0 1 0 23.5 L 0 -23.5 A 4 4 0 0 1 4 -27.5" fill="rgb(246,248,252)" fill-opacity="1" stroke="rgb(140,141,142)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,622.7836,212.687)">
+</path>
+<path d="M 33.1758 -22.5 L 104.9531 -22.5 L 104.9531 -10.5 L 33.1758 -10.5 L 33.1758 -22.5 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)" dominant-baseline="central" text-anchor="middle" x="69.064453125" y="-16.5" style="font: 12px &quot;Microsoft YaHei&quot;;">Access From</text>
+<path d="M 0 -5.5 L 138.1289 -5.5 L 138.1289 -5.5 L 0 -5.5 L 0 -5.5 Z" fill="none" stroke="#8C8D8E" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,622.7836,212.687)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)" dominant-baseline="central" text-anchor="start" x="0" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M 7.1016 4 L 77.1016 4 L 77.1016 18 L 7.1016 18 L 7.1016 4 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)">
+</path>
+<text xml:space="preserve" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)" dominant-baseline="central" text-anchor="start" x="7.1015625" y="11" style="font: bold 14px &quot;Microsoft YaHei&quot;;">桌面应用：</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)" dominant-baseline="central" text-anchor="start" x="77.1015625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">41  </text>
+<path d="M 102.2773 2 L 127.0273 2 A 4 4 0 0 1 131.0273 6 L 131.0273 16 A 4 4 0 0 1 127.0273 20 L 102.2773 20 A 4 4 0 0 1 98.2773 16 L 98.2773 6 A 4 4 0 0 1 102.2773 2" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)">
+</path>
+<text xml:space="preserve" fill="#fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)" dominant-baseline="central" text-anchor="start" x="102.27734375" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">41%</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,622.7836,212.687)" dominant-baseline="central" text-anchor="start" x="131.02734375" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -138.668 -27.5 L -4 -27.5 A 4 4 0 0 1 0 -23.5 L 0 23.5 A 4 4 0 0 1 -4 27.5 L -138.668 27.5 A 4 4 0 0 1 -142.668 23.5 L -142.668 -23.5 A 4 4 0 0 1 -138.668 -27.5" fill="#F6F8FC" fill-opacity="1" stroke="#8C8D8E" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,353.923,448.8528)">
+</path>
+<path d="M -107.2227 -22.5 L -35.4453 -22.5 L -35.4453 -10.5 L -107.2227 -10.5 L -107.2227 -22.5 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)" dominant-baseline="central" text-anchor="middle" x="-71.333984375" y="-16.5" style="font: 12px &quot;Microsoft YaHei&quot;;">Access From</text>
+<path d="M -142.668 -5.5 L 0 -5.5 L 0 -5.5 L -142.668 -5.5 L -142.668 -5.5 Z" fill="none" stroke="#8C8D8E" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,353.923,448.8528)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)" dominant-baseline="central" text-anchor="end" x="0" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -35.8516 2 L -11.1016 2 A 4 4 0 0 1 -7.1016 6 L -7.1016 16 A 4 4 0 0 1 -11.1016 20 L -35.8516 20 A 4 4 0 0 1 -39.8516 16 L -39.8516 6 A 4 4 0 0 1 -35.8516 2" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)">
+</path>
+<text xml:space="preserve" fill="#fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)" dominant-baseline="central" text-anchor="end" x="-11.1015625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">26%</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)" dominant-baseline="central" text-anchor="end" x="-39.8515625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">26  </text>
+<path d="M -135.5664 4 L -61.0273 4 L -61.0273 18 L -135.5664 18 L -135.5664 4 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)">
+</path>
+<text xml:space="preserve" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)" dominant-baseline="central" text-anchor="end" x="-61.02734375" y="11" style="font: bold 14px &quot;Microsoft YaHei&quot;;">Web应用：</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,353.923,448.8528)" dominant-baseline="central" text-anchor="end" x="-135.56640625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -120.1289 -27.5 L -4 -27.5 A 4 4 0 0 1 0 -23.5 L 0 23.5 A 4 4 0 0 1 -4 27.5 L -120.1289 27.5 A 4 4 0 0 1 -124.1289 23.5 L -124.1289 -23.5 A 4 4 0 0 1 -120.1289 -27.5" fill="rgb(246,248,252)" fill-opacity="1" stroke="rgb(140,141,142)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,212.5401,247.6853)">
+</path>
+<path d="M -97.9531 -22.5 L -26.1758 -22.5 L -26.1758 -10.5 L -97.9531 -10.5 L -97.9531 -22.5 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)" dominant-baseline="central" text-anchor="middle" x="-62.064453125" y="-16.5" style="font: 12px &quot;Microsoft YaHei&quot;;">Access From</text>
+<path d="M -124.1289 -5.5 L 0 -5.5 L 0 -5.5 L -124.1289 -5.5 L -124.1289 -5.5 Z" fill="none" stroke="#8C8D8E" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,212.5401,247.6853)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)" dominant-baseline="central" text-anchor="end" x="0" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -35.8516 2 L -11.1016 2 A 4 4 0 0 1 -7.1016 6 L -7.1016 16 A 4 4 0 0 1 -11.1016 20 L -35.8516 20 A 4 4 0 0 1 -39.8516 16 L -39.8516 6 A 4 4 0 0 1 -35.8516 2" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)">
+</path>
+<text xml:space="preserve" fill="#fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)" dominant-baseline="central" text-anchor="end" x="-11.1015625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">19%</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)" dominant-baseline="central" text-anchor="end" x="-39.8515625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">19  </text>
+<path d="M -117.0273 4 L -61.0273 4 L -61.0273 18 L -117.0273 18 L -117.0273 4 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)">
+</path>
+<text xml:space="preserve" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)" dominant-baseline="central" text-anchor="end" x="-61.02734375" y="11" style="font: bold 14px &quot;Microsoft YaHei&quot;;">小程序：</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,212.5401,247.6853)" dominant-baseline="central" text-anchor="end" x="-117.02734375" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -134.1289 -27.5 L -4 -27.5 A 4 4 0 0 1 0 -23.5 L 0 23.5 A 4 4 0 0 1 -4 27.5 L -134.1289 27.5 A 4 4 0 0 1 -138.1289 23.5 L -138.1289 -23.5 A 4 4 0 0 1 -134.1289 -27.5" fill="rgb(246,248,252)" fill-opacity="1" stroke="rgb(140,141,142)" stroke-width="2" paint-order="stroke" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,320.4,94.2162)">
+</path>
+<path d="M -104.9531 -22.5 L -33.1758 -22.5 L -33.1758 -10.5 L -104.9531 -10.5 L -104.9531 -22.5 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)">
+</path>
+<text xml:space="preserve" fill="#6E7079" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)" dominant-baseline="central" text-anchor="middle" x="-69.064453125" y="-16.5" style="font: 12px &quot;Microsoft YaHei&quot;;">Access From</text>
+<path d="M -138.1289 -5.5 L 0 -5.5 L 0 -5.5 L -138.1289 -5.5 L -138.1289 -5.5 Z" fill="none" stroke="#8C8D8E" stroke-width="1" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,320.4,94.2162)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)" dominant-baseline="central" text-anchor="end" x="0" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -35.8516 2 L -11.1016 2 A 4 4 0 0 1 -7.1016 6 L -7.1016 16 A 4 4 0 0 1 -11.1016 20 L -35.8516 20 A 4 4 0 0 1 -39.8516 16 L -39.8516 6 A 4 4 0 0 1 -35.8516 2" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)">
+</path>
+<text xml:space="preserve" fill="#fff" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)" dominant-baseline="central" text-anchor="end" x="-11.1015625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">14%</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)" dominant-baseline="central" text-anchor="end" x="-39.8515625" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">14  </text>
+<path d="M -131.0273 4 L -61.0273 4 L -61.0273 18 L -131.0273 18 L -131.0273 4 Z" fill="none" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)">
+</path>
+<text xml:space="preserve" fill="#4C5058" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)" dominant-baseline="central" text-anchor="end" x="-61.02734375" y="11" style="font: bold 14px &quot;Microsoft YaHei&quot;;">网页展示：</text>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,320.4,94.2162)" dominant-baseline="central" text-anchor="end" x="-131.02734375" y="11" style="font: 12px &quot;Microsoft YaHei&quot;;">  </text>
+<path d="M -5 -5 L 337.6836 -5 L 337.6836 19 L -5 19 L -5 -5 Z" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0" paint-order="fill" stroke-opacity="1" stroke-dasharray="none" stroke-linecap="butt" stroke-miterlimit="10" transform="matrix(1,0,0,1,254.6582,5)">
+</path>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#fac858" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,254.6582,5)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,254.6582,5)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">桌面应用</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#ee6666" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342.6582,5)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,342.6582,5)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">Web应用</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#73c0de" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,433.3418,5)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,433.3418,5)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">小程序</text>
+<path d="M 3.5 0 L 21.5 0 A 3.5 3.5 0 0 1 25 3.5 L 25 10.5 A 3.5 3.5 0 0 1 21.5 14 L 3.5 14 A 3.5 3.5 0 0 1 0 10.5 L 0 3.5 A 3.5 3.5 0 0 1 3.5 0" fill="#3ba272" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,509.3418,5)">
+</path>
+<text xml:space="preserve" fill="#333" fill-opacity="1" stroke="none" transform="matrix(1,0,0,1,509.3418,5)" dominant-baseline="central" text-anchor="start" x="30" y="7" style="font: 12px &quot;Microsoft YaHei&quot;;">网页展示</text>
+</g>
+</svg>
