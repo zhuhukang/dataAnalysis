@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1224" height="384" viewBox="0 0 1224 384">
+    <g id="框" transform="translate(-48 -144)">
+        <g id="底" fill="rgba(139,165,255,0.06)">
+            <path d="M96,144H60.971L48,156.961V515.227L60.783,528H248.115l7.45-7.444h28.429l7.45,7.444h967.174L1272,514.63V328.812l-12.431-12.422V233.55L1272,221.128V156.12l-6.934-6.929H1205.2L1200,144Z" stroke="none"/>
+            <path d="M 61.38525390625 145 L 49 157.3756103515625 L 49 514.8125 L 61.1971435546875 527 L 247.7012939453125 527 L 255.1517333984375 519.5555419921875 L 284.4083251953125 519.5555419921875 L 291.858642578125 527 L 1258.204956054688 527 L 1271 514.21533203125 L 1271 329.2263793945313 L 1258.568603515625 316.804931640625 L 1258.568603515625 233.1352233886719 L 1258.86181640625 232.8423156738281 L 1271 220.7139282226563 L 1271 156.5348510742188 L 1264.651733398438 150.1915283203125 L 1204.78173828125 150.1915283203125 L 1199.586059570313 145 L 61.38525390625 145 M 60.971435546875 144 L 1200 144 L 1205.195678710938 149.1915283203125 L 1265.065673828125 149.1915283203125 L 1272 156.1204833984375 L 1272 221.1282958984375 L 1259.568603515625 233.5496826171875 L 1259.568603515625 316.3904724121094 L 1272 328.81201171875 L 1272 514.6296997070313 L 1258.618896484375 528 L 291.44482421875 528 L 283.9942626953125 520.5555419921875 L 255.565673828125 520.5555419921875 L 248.115234375 528 L 60.783203125 528 L 48 515.2269287109375 L 48 156.9612426757813 L 60.971435546875 144 Z" stroke="none" fill="rgba(255,255,255,0.16)"/>
+        </g>
+        <g id="小元素">
+            <path id="路径_121" data-name="路径 121" d="M48,432l6.7,6.7v75.5l-6.7,6Z" transform="translate(0 -24)" fill="#fff"/>
+            <path id="路径_122" data-name="路径 122" d="M89.872,144v4.244H63.036L51.4,159.884V180.93l-3.4,3.4V157.481L61.481,144Z" fill="#fff"/>
+            <path id="路径_123" data-name="路径 123" d="M455.815,539.679h-3.6v21.834l-11.709,11.852h-9.268l-3.426,2.315h14.64l13.36-13.287Z" transform="translate(816.185 -47.679)" fill="#fff"/>
+            <path id="路径_124" data-name="路径 124" d="M120,576l2.249-2.249h60.806L185.3,576Z" transform="translate(0 -48)" fill="#fff"/>
+            <rect id="矩形_72" data-name="矩形 72" width="4" height="4" transform="translate(406 516)" fill="#fff"/>
+            <rect id="矩形_73" data-name="矩形 73" width="4" height="4" transform="translate(414 516)" fill="#fff"/>
+            <rect id="矩形_74" data-name="矩形 74" width="4" height="4" transform="translate(422 516)" fill="#fff"/>
+            <path id="路径_116" data-name="路径 116" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 932.244)" fill="#fff" opacity="0.8"/>
+            <path id="路径_117" data-name="路径 117" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 961.186)" fill="#fff" opacity="0.6"/>
+            <path id="路径_118" data-name="路径 118" d="M-1990.442-680.541l-6.662,6.648v19.765l6.662-6.648Z" transform="translate(2051.104 990.128)" fill="#fff" opacity="0.4"/>
+            <rect id="矩形_61" data-name="矩形 61" width="8.001" height="1.996" rx="0.998" transform="translate(1255 264)" fill="#fff"/>
+            <rect id="矩形_62" data-name="矩形 62" width="8.001" height="1.996" rx="0.998" transform="translate(1255 267.992)" fill="#fff"/>
+            <rect id="矩形_63" data-name="矩形 63" width="8.001" height="1.996" rx="0.998" transform="translate(1255 271.984)" fill="#fff"/>
+            <rect id="矩形_64" data-name="矩形 64" width="8.001" height="1.996" rx="0.998" transform="translate(1255 275.976)" fill="#fff"/>
+            <rect id="矩形_65" data-name="矩形 65" width="8.001" height="1.996" rx="0.998" transform="translate(1255 279.968)" fill="#fff"/>
+            <rect id="矩形_97" data-name="矩形 97" width="2" height="4" transform="translate(840 144)" fill="#fff"/>
+            <rect id="矩形_98" data-name="矩形 98" width="2" height="4" transform="translate(844 144)" fill="#fff"/>
+            <rect id="矩形_99" data-name="矩形 99" width="2" height="4" transform="translate(848 144)" fill="#fff"/>
+            <rect id="矩形_100" data-name="矩形 100" width="2" height="4" transform="translate(852 144)" fill="#fff"/>
+            <rect id="矩形_101" data-name="矩形 101" width="2" height="4" transform="translate(856 144)" fill="#fff"/>
+        </g>
+    </g>
+</svg>
